@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wx_station_index>
+        <credit>NOAA's National Weather Service</credit>
+        <credit_URL>https://weather.gov/</credit_URL>
+        <image>
+                <url>https://weather.gov/images/xml_logo.gif</url>
+                <title>NOAA's National Weather Service</title>
+                <link>https://www.weather.gov</link>
+        </image>
+        <suggested_pickup>08:00 EST</suggested_pickup>
+        <suggested_pickup_period>1140</suggested_pickup_period>
+	<station>
+		<station_id>CWAV</station_id>
+		<state>AB</state>
+            	<station_name>Sundre</station_name>
+		<latitude>51.76667</latitude>
+		<longitude>-114.68333</longitude>
+            	<html_url>https://w1.weather.gov/data/obhistory/CWAV.html</html_url>
+            	<rss_url>https://weather.gov/xml/current_obs/CWAV.rss</rss_url>
+            	<xml_url>https://weather.gov/xml/current_obs/CWAV.xml</xml_url>
+	</station>
+
+	<station>
+		<station_id>CWBO</station_id>
+		<state>AB</state>
+            	<station_name>Brooks Automatic Weather Reporting System</station_name>
+		<latitude>50.55</latitude>
+		<longitude>-111.85</longitude>
+            	<html_url>https://w1.weather.gov/data/obhistory/CWBO.html</html_url>
+            	<rss_url>https://weather.gov/xml/current_obs/CWBO.rss</rss_url>
+            	<xml_url>https://weather.gov/xml/current_obs/CWBO.xml</xml_url>
+	</station>
+	<station>
+		<station_id>MMZC</station_id>
+		<state>ZCT</state>
+            	<station_name>Zacatecas Airport</station_name>
+		<latitude>22.9</latitude>
+		<longitude>-102.68333</longitude>
+            	<html_url>https://w1.weather.gov/data/obhistory/MMZC.html</html_url>
+            	<rss_url>https://weather.gov/xml/current_obs/MMZC.rss</rss_url>
+            	<xml_url>https://weather.gov/xml/current_obs/MMZC.xml</xml_url>
+	</station>
+
+</wx_station_index>
